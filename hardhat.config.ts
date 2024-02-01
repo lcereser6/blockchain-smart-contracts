@@ -11,7 +11,7 @@ module.exports = {
   networks: {
     sepolia: {
       url: "https://sepolia.infura.io/v3/45caed101fc844fd9339247c4358fc4c",
-      accounts: ["e0f2611bb5ef78f3a5abf1185541cc17e96455ccc7efc57a66a0718e940bec78"],
+      accounts: ["c4c834f65a9d3be8ac408da83f9c83d96fd6107f40ce8efa780ac8db9bb281c6"],
     },
     hardhat2: {
       url: "http://127.0.0.1:8545/",
